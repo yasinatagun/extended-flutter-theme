@@ -93,6 +93,8 @@ class HomeScreen extends ConsumerWidget {
   }
 }
 
+
+```
 ### Theme Colors Example
 
 ```dart
@@ -104,8 +106,6 @@ Container(
   ),
   child: Text('Hello'),
 )
-```
-
 ### Typography Example
 
 ```dart

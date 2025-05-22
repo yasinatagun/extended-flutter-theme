@@ -106,6 +106,7 @@ Container(
   ),
   child: Text('Hello'),
 )
+```
 ### Typography Example
 
 ```dart
